@@ -4,8 +4,6 @@
 # 配置环境
 需要安装的库
 
-· python
-
 · requests
 
 · beautifulsoup
