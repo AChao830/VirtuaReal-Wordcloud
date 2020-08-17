@@ -4,6 +4,8 @@
 # 配置环境
 需要安装的库
 
+· python
+
 · requests
 
 · beautifulsoup
@@ -28,8 +30,6 @@ user_dict.txt和user_stopwords.txt是用于jieba分词的自定义字典和停�
 mask文件夹用于储存生成自定形状词云所使用的蒙版，文件名字要与用户名一致
 
 wordcloud文件夹用于储存生成的词云
-
-数据和蒙版自己解决，我就不放在这了
 
 # 成果展示
 详细请见BiliBili专栏
